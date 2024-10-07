@@ -3,7 +3,7 @@ import { getNextStage } from './handlers/response.handler.js';
 
 class Score {
   stage = 1000;
-  nextStageScore = 10;
+  nextStageScore = 100;
   score = 0;
   scorePerSec = 1;
   HIGH_SCORE_KEY = 'highScore';
@@ -35,7 +35,7 @@ class Score {
 
   reset() {
     this.stage = 1000;
-    this.nextStageScore = 10;
+    this.nextStageScore = 100;
     this.score = 0;
     this.scorePerSec = 1;
     this.stageChange = true;

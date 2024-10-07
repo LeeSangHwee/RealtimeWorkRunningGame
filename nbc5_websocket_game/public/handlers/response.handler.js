@@ -1,4 +1,4 @@
-let nextStage = { "id":  1000, "nextStageScore": 10, "scorePerSecond": 1 };
+let nextStage = { "id":  1000, "nextStageScore": 100, "scorePerSecond": 1 };
 let UnlockItem = [{ "id": 1, "score": 10, "width": 33.33, "height": 33.33, "image": "images/items/pokeball_red.png" }]
 let UnlockItemState = false;
 
