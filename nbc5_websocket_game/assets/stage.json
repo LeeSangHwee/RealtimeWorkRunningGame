@@ -1,0 +1,13 @@
+{
+  "name": "stage",
+  "version": "1.0.0",
+  "data": [
+    { "id":  1000, "nextStageScore": 10, "scorePerSecond": 1 },
+    { "id":  1001, "nextStageScore": 20, "scorePerSecond": 2 },
+    { "id":  1002, "nextStageScore": 30, "scorePerSecond": 4 },
+    { "id":  1003, "nextStageScore": 40, "scorePerSecond": 8 },
+    { "id":  1004, "nextStageScore": 50, "scorePerSecond": 16 },
+    { "id":  1005, "nextStageScore": 60, "scorePerSecond": 32 },
+    { "id":  1006, "nextStageScore": 70, "scorePerSecond": 64 }
+  ]
+}
